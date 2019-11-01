@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/drive/folders/17Zu1atYwIeXeY6DhjmwU2AG3B0CnEfrG'
+export_file_url = 'https://www.dropbox.com/h=1'
 export_file_name = 'export.pkl'
 
 classes = ['CannabisFlower', 'CannabisPlant', 'HempFlower', 'HempPlant']
