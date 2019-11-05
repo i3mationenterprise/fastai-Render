@@ -44,18 +44,21 @@
           <input id='file-input' class='no-display' type='file' name='file' accept='image/*'
             onchange='showPicked(this)'>
         </div>
-        <button class='btn choose-file-button' type='button' onclick='showPicker()'>Select Image</button>
+        <button class='btn choose-file-button mr-2' type='button' onclick='showPicker()'>Select Image</button>
+        <button id='analyze-button' class='btn analyze-button ml-2' type='button' onclick='analyze()'>Analyze</button>
         <div class='upload-label'>
-          <label id='upload-label'>No file chosen</label>
+          <label id='upload-label'>Please upload an image</label>
         </div>
         <div>
           <img id='image-picked' class='no-display image-picked' alt='Chosen Image' height='200'>
         </div>
-        <div class='analyze'>
+        <!-- <div class='analyze'>
           <button id='analyze-button' class='btn analyze-button' type='button' onclick='analyze()'>Analyze</button>
-        </div>
+        </div> -->
         <div class='result-label'>
-          <label id='result-label'></label>
+          <label id='result-label'>
+            <!-- Test Text -->
+          </label>
         </div>
       </div>
     </div>
