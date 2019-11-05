@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c37f2180-a91d-4ce0-8d44-e71b3fa6ede5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/static/143775.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/4f09cf863f9b10aca2b2b14b0f3e1a09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/784181.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/GettyImages-6972322821.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/cannabis-dark-background_37874-796.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/cannabis-dark-background_37874-796.v4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/cannabis.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/marijuana-leaves-cannabis-plants-beautiful-260nw-1384282265.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/weed-wallpapers-mobile-On-wallpaper-hd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/wp2594591.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/wp2805984.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/static/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="76" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
+            <state relative-caret-position="323">
+              <caret line="19" column="57" selection-start-line="17" selection-end-line="19" selection-end-column="57" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
@@ -36,8 +49,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/static/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="101" column="24" lean-forward="true" selection-start-line="101" selection-start-column="2" selection-end-line="101" selection-end-column="24" />
+            <state relative-caret-position="68">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -88,7 +101,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="180" />
     <option name="y" value="10" />
     <option name="width" value="1755" />
@@ -129,6 +142,13 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="fastai-Render" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fastai-Render" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -138,10 +158,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/view" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/static" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\faangminer2\PycharmProjects\fastai-Render\app\static" />
       <recent name="C:\Users\faangminer2\PycharmProjects\fastai-Render\app\view" />
     </key>
   </component>
@@ -202,7 +223,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -213,7 +234,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32956153" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -231,16 +252,6 @@
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="76" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -266,10 +277,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="57" selection-start-line="17" selection-end-line="19" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/static/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="101" column="24" lean-forward="true" selection-start-line="101" selection-start-column="2" selection-end-line="101" selection-end-column="24" />
+        <state relative-caret-position="68">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
