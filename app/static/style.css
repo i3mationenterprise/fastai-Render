@@ -35,48 +35,29 @@ body {
   margin-top: 1rem;
 }
 
-.upload-label {
-  padding: 10px;
-  font-size: 1rem;
-  color: #fff;
-}
-
+.upload-label,
 .result-label {
-  margin-top: 0.5em;
   padding: 10px;
-  font-size: 13px;
-}
-
-button.choose-file-button {
-  width: 200px;
-  height: 40px;
-  background-color: transparent;
-  border: solid 2px #fff;
-  font-size: 1rem;
-  color: rgba(255, 255, 255, 0.5);
-  font-weight: 700;
-  border-radius: 8px;
-}
-
-button.choose-file-button:hover {
-  background-color: rgba(255, 255, 255, 0.5);
+  font-size: 1.5rem;
   color: #fff;
 }
 
+button.choose-file-button,
 button.analyze-button {
-  width: 200px;
-  height: 40px;
+  width: 15rem;
+  height: 60px;
+  background-color: rgba(0, 0, 0, 0.6);
   border: solid 2px #fff;
-  border-radius: 8px;
-  background-color: transparent;
-  font-size: 1rem;
-  color: rgba(255, 255, 255, 0.5);
+  font-size: 1.3rem;
+  color: #fff;
   font-weight: 700;
+  border-radius: 8px;
 }
 
+button.choose-file-button:hover,
 button.analyze-button:hover {
+  background-color: #000;
   color: #fff;
-  background-color: rgba(255, 255, 255, 0.5);
 }
 
 button:focus {
