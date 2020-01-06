@@ -40,6 +40,7 @@ function analyze() {
   xhr.send(fileData);
 }
 
+
 function scanQR() {
   //TO DO
   //Add barcode scanning code here
