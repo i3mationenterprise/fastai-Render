@@ -43,6 +43,7 @@ body {
 }
 
 button.choose-file-button,
+button.choose-qr-button,
 button.analyze-button {
   width: 15rem;
   height: 60px;
@@ -54,7 +55,9 @@ button.analyze-button {
   border-radius: 8px;
 }
 
+
 button.choose-file-button:hover,
+button.choose-qr-button:hover,
 button.analyze-button:hover {
   background-color: #000;
   color: #fff;
